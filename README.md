@@ -16,6 +16,8 @@
   <a href="https://www.facebook.com/athilas.silva"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="20" width="20"/></a>
 </p>
 
+! [](https://hit.yhype.me/github/profile?user_id=71888055)
+
 <!--
 **Athilas-Silva/athilas-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
