@@ -2,7 +2,9 @@
 
 <p>Me chamo Athilas, sou iniciante no mundo da programação, atualmente estou estudando para poder melhorar e aprender muito mais sobre a programação, as linguagens que possuo conhecimento básicos são CSharp(C#), JavaScript e Pyhton, pretendo investir mais nessas linguagens até se tornar fluente e ainda pretendo aprender muitas outras. Aqui vocês podem ver todo meu trabalho e evolução que tive com o passar do tempo. Mais uma vez, sejam bem vindos e aproveitem a visita ✌️</p>
 
-![Badge](https://img.shields.io/badge/HTML-html-orange)  ![Badge](https://img.shields.io/badge/CSS-css-blue)  ![Badge](https://img.shields.io/badge/Js-javascript-yellow)  ![Badge](https://img.shields.io/badge/C%23-csharp-green)  ![Badge](https://img.shields.io/badge/Py-python-blue)  ![Badge](https://img.shields.io/badge/React-react-blue)  ![Badge](https://img.shields.io/badge/NodeJs-nodejs-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-html-orange">  <img src="https://img.shields.io/badge/CSS-css-blue">  <img src="https://img.shields.io/badge/Js-javascript-yellow">  <img src="https://img.shields.io/badge/C%23-csharp-green"> <img src="https://img.shields.io/badge/Py-python-blue">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Athilas-Silva)
   
