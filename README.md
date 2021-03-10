@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/HTML-html-orange">  <img src="https://img.shields.io/badge/CSS-css-blue">  <img src="https://img.shields.io/badge/Js-javascript-yellow">  <img src="https://img.shields.io/badge/C%23-csharp-green"> <img src="https://img.shields.io/badge/Py-python-blue">
 </p>
 
-![](https://komarev.com/ghpvc/?username=Athilas-Silva)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Athilas-Silva">
+ </p>
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athilas-Silva&layout=compact&theme=react">
