@@ -7,10 +7,14 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Athilas-Silva)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athilas-Silva&layout=compact&theme=react)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athilas-Silva&theme=react&show_icons=true)
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athilas-Silva&layout=compact&theme=react">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Athilas-Silva&theme=react&show_icons=true">
+</p>
 
 <h3 align="center">Links das minhas Redes Sociais:</h3>
 
