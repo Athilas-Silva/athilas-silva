@@ -23,7 +23,6 @@
 <p align="center">
   <a href="https://www.instagram.com/athilassilva/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20"/></a>
   <a href="https://www.linkedin.com/in/athilas-soares-silva-204541206/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedln" height="20" width="20"/></a>
-  <a href="https://www.facebook.com/athilas.silva"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="20" width="20"/></a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=71888055)
