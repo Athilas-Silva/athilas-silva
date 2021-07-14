@@ -8,7 +8,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Athilas-Silva">
- </p>
+</p>
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Athilas-Silva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athilas-Silva&layout=compact&theme=react&langs_count=10">
