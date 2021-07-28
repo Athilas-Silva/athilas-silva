@@ -1,6 +1,6 @@
 <h2 align="center">Olá pessoal, Bem vindos ao meu perfil no GitHub 👋😄</h2>
 
-<p>Me chamo Athilas, sou iniciante no mundo da programação, atualmente estou estudando para poder melhorar e aprender muito mais sobre a programação, as linguagens que possuo conhecimento básicos são CSharp(C#), JavaScript e Pyhton, pretendo investir mais nessas linguagens até se tornar fluente e ainda pretendo aprender muitas outras. Aqui vocês podem ver todo meu trabalho e evolução que tive com o passar do tempo. Mais uma vez, sejam bem vindos e aproveitem a visita ✌️</p>
+<p>Me chamo Athilas, sou iniciante no mundo da programação, atualmente estou estudando para poder melhorar e aprender muito mais sobre a programação, as linguagens que possuo conhecimento básico são CSharp(C#), JavaScript e Pyhton, pretendo investir mais nessas linguagens até se tornar fluente e ainda pretendo aprender outras. Aqui vocês podem ver todo meu trabalho e evolução que tive com o passar do tempo. Mais uma vez, sejam bem vindos e aproveitem a visita ✌️</p>
 
 
 <h4 align="center">👨‍💻 Languagens:</h4>
