@@ -42,6 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Athilas-Silva&theme=react&show_icons=true">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Athilas-Silva">
+</p>
+
 <h3 align="center">Links das minhas Redes Sociais:</h3>
 
 <p align="center">
