@@ -1,6 +1,12 @@
-<h2 align="center">Olá pessoal, Bem vindos ao meu perfil no GitHub 👋😄</h2>
+<h2 align="center">Olá pessoal, Bem vindos ao meu perfil 👋😄</h2>
 
-<p>Me chamo Athilas, sou iniciante no mundo da programação, atualmente estou estudando para poder melhorar e aprender muito mais sobre a programação, as linguagens que possuo conhecimento básico são CSharp(C#), JavaScript e Pyhton, pretendo investir mais nessas linguagens até se tornar fluente e ainda pretendo aprender outras. Aqui vocês podem ver todo meu trabalho e evolução que tive com o passar do tempo. Mais uma vez, sejam bem vindos e aproveitem a visita ✌️</p>
+- Estudante de Desenvolvimento de Sistemas
+- 👨‍💻 [Meu Portfólio](https://portfolioathilas.netlify.app/)
+
+<h4 align="center">Número de visitas 🧐🔎</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Athilas-Silva">
+</p>
 
 <h4 align="center">👨‍💻 Languagens:</h4>
 
@@ -19,16 +25,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
-
-<h4 align="center">Meu portfólio:</h4>
-
-<p align="center">
-  <a href="https://portfolioathilas.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Athilas-Silva">
-</p>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Athilas-Silva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -46,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Athilas-Silva">
 </p>
 
-<h3 align="center">Links das minhas Redes Sociais:</h3>
+<h4 align="center">Links das minhas Redes Sociais:</h4>
 
 <p align="center">
   <a href="https://www.instagram.com/athilassilva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
