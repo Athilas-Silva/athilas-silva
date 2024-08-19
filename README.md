@@ -1,9 +1,8 @@
 <h2 align="center">Olá pessoal, Bem vindos ao meu perfil 👋😄</h2>
 
-- Atualmente trabalhando como desenvolvedor Back-End.
 - Programador Jr utilizando PHP.
-- Estudando: PHP, Laravel, Vue e ElasticSearch.
-- Quero aprimorar meus conhecimentos em Javascript e PHP.
+- Atualmente estudando: PHP e Laravel.
+- Quero aprimorar meus conhecimentos em PHP e Javascript.
 - Quero me tornar um programdor Full-Stack.
 - Já estudei um pouco sobre C#, Python e Java.
 - 👨‍💻 [Meu Portfólio](https://portfolioathilas.netlify.app/)
