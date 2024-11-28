@@ -3,7 +3,7 @@
 - Programador Jr utilizando PHP.
 - Atualmente estudando: PHP e Laravel.
 - Quero aprimorar meus conhecimentos em PHP e Javascript.
-- Quero me tornar um programdor Full-Stack.
+- Quero me tornar um programador Full-Stack.
 - Já estudei um pouco sobre C#, Python e Java.
 - 👨‍💻 [Meu Portfólio](https://portfolioathilas.netlify.app/)
 
